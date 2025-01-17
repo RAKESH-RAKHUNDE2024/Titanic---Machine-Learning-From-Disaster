@@ -1,4 +1,4 @@
-# Project Summary: Titanic - Machine Learning From Disaster
+# Project Summary:- Titanic - Machine Learning From Disaster
 
 ## Objective:-
 The "Titanic - Machine Learning From Disaster" Project Aims To Provide An In-depth Analysis Of The Titanic Dataset To Predict Survival Outcomes For Passengers Aboard The Ill-fated Rms Titanic Using Machine Learning Techniques. This Project Utilizes The **train.csv** And **test.csv** Datasets, Which Contain Passenger Information Such As Age, Gender, Class, And Other Attributes, To Develop Predictive Models. By Employing A Variety Of Data Analysis And Machine Learning Techniques, We Will Explore The Key Factors That Influenced Survival Rates And Create A Model Capable Of Predicting Whether A Passenger Survived Based On Their Characteristics.
