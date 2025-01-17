@@ -34,27 +34,27 @@ The Project Uses Two Datasets:-
 
 ### Key Steps And Techniques:-
 
-1. **data Handling**:-
+1. **Data Handling**:-
    - **importing Data**: Load The Titanic Dataset Using Pandas.
    - **cleaning Data**: Handle Missing Values (E.g., In The "Age" Or "Cabin" Columns) By Imputation Or Removal.
    - **exploring Data**: Generate Basic Statistics And Visualizations To Understand The Distribution Of Features Like Age, Gender, And Class.
 
-2. **exploratory Data Analysis (Eda)**:-
+2. **Exploratory Data Analysis (Eda)**:-
    - Visualize The Data To Uncover Patterns And Relationships Between Features And Survival.
    - Break Down Survival Rates By **gender** And **class** To Explore The Factors Influencing Survival.
    - Use Histograms, Box Plots, And Bar Plots To Gain Insights Into Key Features.
 
-3. **supervised Machine Learning**:-
+3. **Supervised Machine Learning**:-
    - **logistic Regression**: A Simple Model To Predict Survival Based On Passenger Features.
    - **support Vector Machines (Svm)**: Implement Svm With Different Kernels To Evaluate The Best Performing Model.
    - **random Forest**: A Basic Ensemble Method To Improve Predictive Accuracy.
    - **plotting Results**: Visualize Model Performance, Including Accuracy Scores And Feature Importance.
 
-4. **model Evaluation**:-
+4. **Model Evaluation**:-
    - **k-fold Cross Validation**: Use K-fold Cross-validation To Evaluate Model Performance On The Training Data And Ensure The Model Generalizes Well.
    - Evaluate Different Models' Accuracy And Fine-tune Hyperparameters.
 
-5. **prediction And Output**:-
+5. **Prediction And Output**:-
    - Use The Trained Model To Predict The "Survived" Column For The Test Dataset (Test.csv).
    - Output The Predictions To A Csv File, Which Can Be Submitted To **kaggle** For Further Evaluation.
 
